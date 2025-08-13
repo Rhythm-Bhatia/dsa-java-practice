@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RHYTHM643/dsa-java-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2681-put-marbles-in-bags](https://github.com/RHYTHM643/dsa-java-practice/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/RHYTHM643/dsa-java-practice/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2681-put-marbles-in-bags](https://github.com/RHYTHM643/dsa-java-practice/tree/master/2681-put-marbles-in-bags) |
+## Sliding Window
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
