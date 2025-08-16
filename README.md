@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/RHYTHM643/dsa-java-practice/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Math
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RHYTHM643/dsa-java-practice/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RHYTHM643/dsa-java-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0424-longest-repeating-character-replacement) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
