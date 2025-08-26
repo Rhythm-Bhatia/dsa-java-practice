@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0055-jump-game) |
 | [0347-top-k-frequent-elements](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0502-ipo) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0502-ipo) |
 | [0890-lemonade-change](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0890-lemonade-change) |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0347-top-k-frequent-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
