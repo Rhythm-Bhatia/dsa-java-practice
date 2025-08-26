@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0502-ipo) |
+| [0890-lemonade-change](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1046-max-consecutive-ones-iii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0502-ipo) |
+| [0890-lemonade-change](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0890-lemonade-change) |
 | [2681-put-marbles-in-bags](https://github.com/RHYTHM643/dsa-java-practice/tree/master/2681-put-marbles-in-bags) |
 ## Heap (Priority Queue)
 |  |
