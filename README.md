@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/RHYTHM643/dsa-java-practice/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RHYTHM643/dsa-java-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -165,5 +166,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
