@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0057-insert-interval) |
+| [0135-candy](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0135-candy) |
 | [0347-top-k-frequent-elements](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0455-assign-cookies) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0502-ipo) |
