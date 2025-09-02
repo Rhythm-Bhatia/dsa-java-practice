@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/RHYTHM643/dsa-java-practice/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0048-rotate-image) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RHYTHM643/dsa-java-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0057-insert-interval) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0048-rotate-image) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RHYTHM643/dsa-java-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3748-sort-matrix-by-diagonals) |
 ## Greedy
