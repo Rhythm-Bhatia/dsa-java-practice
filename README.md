@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RHYTHM643/dsa-java-practice/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0076-minimum-window-substring) |
+| [0229-majority-element-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0451-sort-characters-by-frequency) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0135-candy) |
+| [0229-majority-element-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0455-assign-cookies) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0451-sort-characters-by-frequency) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
