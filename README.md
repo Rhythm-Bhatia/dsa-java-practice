@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0678-valid-parenthesis-string) |
+| [0812-rotate-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0812-rotate-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RHYTHM643/dsa-java-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0812-rotate-string) |
 ## Array
 |  |
 | ------- |
