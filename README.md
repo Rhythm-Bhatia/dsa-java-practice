@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0812-rotate-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0678-valid-parenthesis-string) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
