@@ -19,14 +19,14 @@ class Solution {
         for(int i=0;i<sb.length();i++){
             if(sb.charAt(i)>='0' && sb.charAt(i)<='9'){
                 ans.append(sb.charAt(i));
-                try {
-                    num = Long.parseLong(ans.toString());
-                } catch (NumberFormatException e) {
-                    // if it overflows even long, clamp directly
-                    return (ans.charAt(0) == '-') ? Integer.MIN_VALUE : Integer.MAX_VALUE;
-                }
-                if (num > Integer.MAX_VALUE) return Integer.MAX_VALUE;
-                if (num < Integer.MIN_VALUE) return Integer.MIN_VALUE;
+                
+                num = Long.parseLong(ans.toString());
+                
+                    
+                    
+            
+            if (num > Integer.MAX_VALUE) return Integer.MAX_VALUE;
+            if (num < Integer.MIN_VALUE) return Integer.MIN_VALUE;
 
 
             }
