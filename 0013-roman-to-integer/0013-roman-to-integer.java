@@ -1,24 +1,37 @@
 class Solution {
     public int romanToInt(String s) {
-        int max=0;
-        Map<Character,Integer> mp= new HashMap<>();
-        mp.put('I',1);
-        mp.put('V',5);
-        mp.put('X',10);
-        mp.put('L',50);
-        mp.put('C',100);
-        mp.put('D',500);
-        mp.put('M',1000);
+        int count=0;
+        Map<Character,Integer>map=new HashMap<>();
+       
 
-        for(int i=0;i<s.length()-1;i++){
-            int a=mp.get(s.charAt(i));
-            if(a<mp.get(s.charAt(i+1))){
-                a=a*-1;
-                
+        
+        
+        map.put('I',1);
+        map.put('V',5);
+        map.put('X',10);
+        map.put('L',50);
+        map.put('C',100);
+        map.put('D',500);
+        map.put('M',1000);
+        int i=s.length()-1;
+        while(i>=0){
+            count=count+map.get(s.charAt(i));
+            if(i!=0&&(s.charAt(i)=='V'||s.charAt(i)=='X')&&s.charAt(i-1)=='I'){
+                count=count-map.get('I');
+                i--;
             }
-            max=max+a;
+            if(i!=0&&(s.charAt(i)=='L'||s.charAt(i)=='C')&&s.charAt(i-1)=='X'){
+                count=count-map.get('X');
+                i--;
+            }
+            if(i!=0&&(s.charAt(i)=='D'||s.charAt(i)=='M')&&s.charAt(i-1)=='C'){
+                count=count-map.get('C');
+                i--;
+            }
+            i--;
         }
-        max=max+mp.get(s.charAt(s.length()-1));
-        return max;
+        return count;
+        
+        
     }
 }
