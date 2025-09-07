@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RHYTHM643/dsa-java-practice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0048-rotate-image) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1370-count-number-of-nice-subarrays) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2032-largest-odd-number-in-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2032-largest-odd-number-in-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RHYTHM643/dsa-java-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1370-count-number-of-nice-subarrays) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1917-maximum-average-pass-ratio) |
