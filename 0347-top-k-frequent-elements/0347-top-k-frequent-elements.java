@@ -18,7 +18,7 @@ class Solution {
         PriorityQueue<pair>heap=new PriorityQueue<>(new Comparator <pair>(){
             @Override
             public int compare(pair p1,pair p2){
-                int freqCompare=Integer.compare(p1.freq,p2.freq);
+                int freqCompare=Integer.compare(p2.freq,p1.freq);
                 if(freqCompare!=0)return freqCompare;
                 //optinal tie breaker if frequencues are same the do by value
                 return Integer.compare(p1.element,p2.element);
@@ -27,18 +27,39 @@ class Solution {
         //add all elements as pair and return top k
         for(Map.Entry<Integer,Integer>entry:map.entrySet()){
             heap.offer(new pair(entry.getKey(),entry.getValue()));
-            if(heap.size()>k){
-                heap.poll();
-            }
+            
         }
         //extract elements from heap
         int result[]=new int[k];
-        for(int i=k-1;i>=0;i--){
+        for(int i=0;i<k;i++){
             result[i]=heap.poll().element;
         }
         return result;
-
-        
-
     }
 }
+// class Solution {
+//     public int[] topKFrequent(int[] nums, int k) {
+//         HashMap<Integer,Integer>map=new HashMap<Integer,Integer>();
+//         PriorityQueue <Integer> pq=new PriorityQueue<Integer>((a,b)->(map.get(a)-map.get(b)));
+        
+//         for(int i=0;i<nums.length;i++){
+            
+//             map.put(nums[i],1+map.getOrDefault(nums[i],0));
+//         }
+        
+//         for(Integer key:map.keySet()){
+//             pq.add(key);
+//             if(pq.size()>k){
+//                 pq.poll();
+//             }
+//         }
+        
+//         int[] res=new int[k];
+//         int i=0;
+//         while(pq.size()>0){
+//            res[i++]=pq.poll();
+           
+//         }
+//         return res;
+//     }
+// }
