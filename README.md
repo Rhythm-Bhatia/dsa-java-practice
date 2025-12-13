@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0560-subarray-sum-equals-k) |
+| [0860-lemonade-change](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0860-lemonade-change) |
 | [0890-lemonade-change](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0966-binary-subarrays-with-sum) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0502-ipo) |
 | [0678-valid-parenthesis-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0678-valid-parenthesis-string) |
+| [0860-lemonade-change](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0860-lemonade-change) |
 | [0890-lemonade-change](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0890-lemonade-change) |
 | [1917-maximum-average-pass-ratio](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2032-largest-odd-number-in-string) |
