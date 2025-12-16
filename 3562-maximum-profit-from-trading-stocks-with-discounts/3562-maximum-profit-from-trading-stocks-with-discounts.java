@@ -5,7 +5,7 @@ class Solution {
     int B;
     List<Integer>[] tree;
     int[] present, future;
-    int[][][] dp; // dp[node][parentBought][budget]
+    int[][][] dp; 
 
     public int maxProfit(int n, int[] present, int[] future,
             int[][] hierarchy, int budget) {
@@ -33,7 +33,7 @@ class Solution {
         return ans;
     }
 
-    // Merge two knapsack arrays
+    
     private int[] merge(int[] A, int[] B2) {
         int[] C = new int[B + 1];
         Arrays.fill(C, Integer.MIN_VALUE / 2);
@@ -78,7 +78,7 @@ class Solution {
                 }
             }
 
-            // Best of take / skip
+            
             for (int b = 0; b <= B; b++) {
                 dp[u][parentBought][b] = Math.max(skip[b], take[b]);
             }
