@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/RHYTHM643/dsa-java-practice/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3748-sort-matrix-by-diagonals) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0678-valid-parenthesis-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Stack
 |  |
 | ------- |
@@ -289,4 +291,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Tree
+|  |
+| ------- |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+## Depth-First Search
+|  |
+| ------- |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 <!---LeetCode Topics End-->
