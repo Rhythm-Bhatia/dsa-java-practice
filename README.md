@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2032-largest-odd-number-in-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3462-vowels-game-in-a-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3462-vowels-game-in-a-string) |
 ## Two Pointers
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Binary Search
 |  |
