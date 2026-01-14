@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3454-separate-squares-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3454-separate-squares-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2054-two-best-non-overlapping-events](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2054-two-best-non-overlapping-events) |
+| [3454-separate-squares-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3454-separate-squares-ii) |
 ## Database
 |  |
 | ------- |
@@ -394,4 +396,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0239-sliding-window-maximum) |
 | [1425-constrained-subsequence-sum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1425-constrained-subsequence-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
