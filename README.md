@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0242-valid-anagram) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -412,4 +414,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3454-separate-squares-ii) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
