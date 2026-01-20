@@ -1,45 +1,81 @@
-// class LRUCache {
-
-//     public LRUCache(int capacity) {
-        
-//     }
-    
-//     public int get(int key) {
-        
-//     }
-    
-//     public void put(int key, int value) {
-        
-//     }
-// }
 class LRUCache {
-
+    class Node{
+        int key;
+        int value;
+        Node next;
+        Node prev;
+        Node(int key,int value){
+            this.key=key;
+            this.value=value;
+        }
+        
+        
+        
+    }
     private int capacity;
-    private LinkedHashMap<Integer, Integer> map;
+    private Node head;
+    private Node tail;
+    private Map<Integer,Node>map=new HashMap<>();
 
     public LRUCache(int capacity) {
-        this.capacity = capacity;
-        map = new LinkedHashMap<>(capacity, 0.75f, true);
+        this.capacity=capacity;
+        head=new Node(0,0);
+        tail=new Node(0,0);
+        head.next=tail;
+        tail.prev=head;
+        
     }
-
+    
     public int get(int key) {
-        return map.getOrDefault(key, -1);
+        if(!map.containsKey(key)){
+            return -1;
+        }
+        Node node=map.get(key);
+        functionremove(node);
+        addlast(node);//to do
+        return node.value;
+        
+
+
+
+
+        
+        
     }
-
+    
     public void put(int key, int value) {
-        if (map.containsKey(key)) {
-            map.put(key, value);
+        if(map.containsKey(key)){
+            Node node=map.get(key);
+            functionremove(node);
+            node.value=value;
+            addlast(node);
             return;
-        }
 
-        if (map.size() == capacity) {
-            int lruKey = map.keySet().iterator().next(); // first = LRU
-            map.remove(lruKey);
         }
+        if(map.size()==capacity){
+            Node lru=head.next;
+            functionremove(lru);
+            map.remove(lru.key);
 
-        map.put(key, value);
+        }
+        Node node=new Node(key,value);
+        addlast(node);
+        map.put(key,node);
+
+    }
+    public void addlast(Node node){
+        tail.prev.next=node;
+        node.next=tail;
+        node.prev=tail.prev;
+        tail.prev=node;
+        
+    }
+    public void functionremove(Node node){
+        node.prev.next=node.next;
+        node.next.prev=node.prev;
     }
 }
+
 
 /**
  * Your LRUCache object will be instantiated and called as such:
