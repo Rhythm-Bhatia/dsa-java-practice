@@ -10,8 +10,10 @@ class Solution {
                 if((j|(j+1)) == nums.get(i)){
                     ans[i]=j;
                     break;
-                } else if(nums.get(i)%2==0){
+                } 
+                else {
                     ans[i]=-1;
+                
                 }
             }
         }
