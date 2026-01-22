@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/RHYTHM643/dsa-java-practice/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3454-separate-squares-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3454-separate-squares-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-two-best-non-overlapping-events](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2681-put-marbles-in-bags](https://github.com/RHYTHM643/dsa-java-practice/tree/master/2681-put-marbles-in-bags) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Geometry
 |  |
 | ------- |
@@ -367,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0146-lru-cache) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -433,4 +438,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0146-lru-cache) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
