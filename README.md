@@ -331,12 +331,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0678-valid-parenthesis-string) |
+| [0901-online-stock-span](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0901-online-stock-span) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0901-online-stock-span) |
 ## Simulation
 |  |
 | ------- |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0146-lru-cache) |
+| [0901-online-stock-span](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -459,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
