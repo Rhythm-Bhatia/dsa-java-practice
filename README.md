@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1046-max-consecutive-ones-iii) |
+| [1200-minimum-absolute-difference](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0502-ipo) |
+| [1200-minimum-absolute-difference](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2054-two-best-non-overlapping-events) |
