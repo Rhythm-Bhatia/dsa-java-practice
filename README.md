@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3637-trionic-array-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3637-trionic-array-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3748-sort-matrix-by-diagonals) |
