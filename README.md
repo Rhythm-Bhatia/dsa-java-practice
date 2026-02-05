@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0756-pyramid-transition-matrix) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
