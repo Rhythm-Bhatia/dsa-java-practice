@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0137-single-number-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0217-contains-duplicate](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0229-majority-element-ii) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0137-single-number-ii) |
 | [0756-pyramid-transition-matrix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0756-pyramid-transition-matrix) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
