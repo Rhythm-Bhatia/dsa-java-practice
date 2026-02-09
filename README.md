@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0860-lemonade-change) |
 | [0890-lemonade-change](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0890-lemonade-change) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1382-balance-a-binary-search-tree](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2032-largest-odd-number-in-string) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0347-top-k-frequent-elements) |
+| [1382-balance-a-binary-search-tree](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -423,12 +425,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1382-balance-a-binary-search-tree](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1382-balance-a-binary-search-tree](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [2092-find-all-people-with-secret](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2092-find-all-people-with-secret) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Breadth-First Search
@@ -454,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1382-balance-a-binary-search-tree](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Queue
 |  |
 | ------- |
@@ -492,4 +497,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0901-online-stock-span) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
