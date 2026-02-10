@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/RHYTHM643/dsa-java-practice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0070-climbing-stairs) |
 | [0840-magic-squares-in-grid](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0840-magic-squares-in-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1370-count-number-of-nice-subarrays) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -501,4 +503,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1382-balance-a-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
