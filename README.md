@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0137-single-number-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0198-house-robber](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0238-product-of-array-except-self) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0198-house-robber](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
