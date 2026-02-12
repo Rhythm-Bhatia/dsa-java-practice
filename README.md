@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3640-trionic-array-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3719-longest-balanced-subarray-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3721-longest-balanced-subarray-ii) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3640-trionic-array-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3640-trionic-array-ii) |
 ## Stack
 |  |
 | ------- |
