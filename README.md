@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RHYTHM643/dsa-java-practice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0070-climbing-stairs) |
 | [0840-magic-squares-in-grid](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0840-magic-squares-in-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1266-minimum-time-visiting-all-points) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RHYTHM643/dsa-java-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0242-valid-anagram) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0067-add-binary) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3379-transformed-array](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0137-single-number-ii) |
