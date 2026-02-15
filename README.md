@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
