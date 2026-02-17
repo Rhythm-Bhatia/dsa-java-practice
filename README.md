@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0260-single-number-iii) |
+| [0401-binary-watch](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0756-pyramid-transition-matrix) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0078-subsets) |
+| [0401-binary-watch](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0756-pyramid-transition-matrix) |
 ## Binary Tree
 |  |
