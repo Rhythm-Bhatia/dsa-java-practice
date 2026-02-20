@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0901-online-stock-span) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1382-balance-a-binary-search-tree) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
