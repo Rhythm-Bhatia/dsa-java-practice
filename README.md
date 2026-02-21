@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0070-climbing-stairs) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0840-magic-squares-in-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1370-count-number-of-nice-subarrays) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0260-single-number-iii) |
 | [0401-binary-watch](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0756-pyramid-transition-matrix) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
