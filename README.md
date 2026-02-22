@@ -443,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0868-binary-gap) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
