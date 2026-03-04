@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1463-cherry-pickup-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-largest-magic-square](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1895-largest-magic-square) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1463-cherry-pickup-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1895-largest-magic-square](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1895-largest-magic-square) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RHYTHM643/dsa-java-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3748-sort-matrix-by-diagonals) |
