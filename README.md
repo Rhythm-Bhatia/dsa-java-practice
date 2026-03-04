@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0621-task-scheduler) |
 | [0756-pyramid-transition-matrix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0621-task-scheduler) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0840-magic-squares-in-grid) |
 | [0860-lemonade-change](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0860-lemonade-change) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0621-task-scheduler) |
 | [0761-special-binary-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0860-lemonade-change) |
 | [0890-lemonade-change](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0890-lemonade-change) |
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0621-task-scheduler) |
 | [1425-constrained-subsequence-sum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1425-constrained-subsequence-sum) |
 | [1917-maximum-average-pass-ratio](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-two-best-non-overlapping-events](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2054-two-best-non-overlapping-events) |
@@ -365,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0621-task-scheduler) |
 | [3713-longest-balanced-substring-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3713-longest-balanced-substring-i) |
 ## Quickselect
 |  |
