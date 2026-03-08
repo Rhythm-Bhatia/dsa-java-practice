@@ -4,10 +4,7 @@ class Solution {
         int ans=-1;
         int n=nums.length;
         long LIMIT = 100000L * 1000000000L;
-        long numss[]=new long[nums.length];
-        for(int i=0;i<nums.length;i++){
-            numss[i]=(long)nums[i];
-        }
+        
         long prefix[]=new long[n];
         long suffix[]=new long[n];
         prefix[0]=0;
