@@ -11,10 +11,10 @@ class Solution {
         suffix[n-1]=1;
         for(int i=1;i<n;i++){
             prefix[i]=prefix[i-1]+nums[i-1];
-            if(prefix[i]>=LIMIT){
-                // suffix[i]=Integer.MAX_VALUE;
-                prefix[i]=LIMIT+1;
-            }
+            // if(prefix[i]>=LIMIT){
+            //     // suffix[i]=Integer.MAX_VALUE;
+            //     prefix[i]=LIMIT+1;
+            // }
         }
         for(int i=nums.length-2;i>=0;i--){
             
