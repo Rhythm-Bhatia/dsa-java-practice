@@ -3,7 +3,7 @@ class Solution {
         if(nums.length==1)return -1;
         int ans=-1;
         int n=nums.length;
-        long LIMIT = (long)1e14;
+        long LIMIT = 100000L * 1000000000L;
         long numss[]=new long[nums.length];
         for(int i=0;i<nums.length;i++){
             numss[i]=(long)nums[i];
@@ -20,7 +20,7 @@ class Solution {
             }
         }
         for(int i=nums.length-2;i>=0;i--){
-            suffix[i]=suffix[i+1]*nums[i+1];
+            
             if(suffix[i+1] > LIMIT / nums[i+1]){
                 suffix[i] = LIMIT + 1;
             }
