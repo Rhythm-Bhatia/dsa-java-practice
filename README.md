@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RHYTHM643/dsa-java-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
