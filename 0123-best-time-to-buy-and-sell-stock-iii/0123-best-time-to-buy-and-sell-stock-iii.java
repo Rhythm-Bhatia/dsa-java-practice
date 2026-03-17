@@ -1,28 +1,19 @@
 class Solution {
-    int dp[][][];
     public int maxProfit(int[] prices) {
-        dp=new int[prices.length][2][3];
-        for(int i=0;i<prices.length;i++){
-            for(int j=0;j<2;j++){
-                dp[i][j][0]=-1;
-                dp[i][j][1]=-1;
-                dp[i][j][2]=-1;
-            }
-        }
-        return profit(prices,0,0,0);
-        
+        Integer dp[][][]=new Integer[prices.length][2][3];        
+        return max(prices,0,0,0,dp);
     }
-    private int profit(int prices[],int index,int buyed,int transactions){
-        if(transactions==2||index==prices.length)return 0;
-        if(dp[index][buyed][transactions]!=-1){
-            return dp[index][buyed][transactions];
+    private int max(int[]prices,int index,int canbuy,int count,Integer dp[][][]){
+        if(count==2||index==prices.length){
+            return 0;
         }
+        if(dp[index][canbuy][count]!=null)return dp[index][canbuy][count];
 
-        if(buyed==0){
-            return dp[index][buyed][transactions]= Math.max(profit(prices,index+1,1,transactions)-prices[index],profit(prices,index+1,0,transactions));
+        if(canbuy==0){
+            return dp[index][canbuy][count] =Math.max(-prices[index]+max(prices,index+1,1,count,dp),max(prices,index+1,canbuy,count,dp));
         }
         else{
-            return dp[index][buyed][transactions]=Math.max(profit(prices,index+1,0,transactions+1)+prices[index],profit(prices,index+1,1,transactions));
+            return dp[index][canbuy][count]=Math.max(+prices[index]+max(prices,index+1,0,count+1,dp),max(prices,index+1,canbuy,count,dp));
         }
     }
 }
