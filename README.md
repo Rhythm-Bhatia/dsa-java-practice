@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1895-largest-magic-square](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1895-largest-magic-square) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RHYTHM643/dsa-java-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3748-sort-matrix-by-diagonals) |
 ## Greedy
 |  |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1895-largest-magic-square) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3714-longest-balanced-substring-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3719-longest-balanced-subarray-i) |
