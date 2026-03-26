@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1463-cherry-pickup-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0761-special-binary-string) |
 | [1048-longest-string-chain](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1048-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1200-minimum-absolute-difference) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2054-two-best-non-overlapping-events) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1425-constrained-subsequence-sum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1425-constrained-subsequence-sum) |
 | [1463-cherry-pickup-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1463-cherry-pickup-ii) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2054-two-best-non-overlapping-events](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
