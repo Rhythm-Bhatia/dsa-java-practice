@@ -1,33 +1,34 @@
 class Solution {
+
     public int minCut(String s) {
         int n = s.length();
-        if (n <= 1) return 0;
+        Integer[] dp = new Integer[n];  // memo
+        return solve(0, s, dp) - 1;
+    }
 
-        boolean[][] isPal = new boolean[n][n];
-        // Precompute palindrome table using DP
-        for (int end = 0; end < n; end++) {
-            for (int start = 0; start <= end; start++) {
-                if (s.charAt(start) == s.charAt(end) && 
-                   (end - start <= 2 || isPal[start + 1][end - 1])) {
-                    isPal[start][end] = true;
-                }
+    private int solve(int i, String s, Integer[] dp) {
+        if (i == s.length()) return 0;
+
+        if (dp[i] != null) return dp[i];
+
+        int minCost = Integer.MAX_VALUE;
+
+        for (int j = i; j < s.length(); j++) {
+            if (isPalindrome(i, j, s)) {
+                int cost = 1 + solve(j + 1, s, dp);
+                minCost = Math.min(minCost, cost);
             }
         }
 
-        int[] dp = new int[n];
-        for (int i = 0; i < n; i++) {
-            if (isPal[0][i]) {
-                dp[i] = 0; // No cut needed if s[0...i] is a palindrome
-            } else {
-                dp[i] = i; // Max cuts: one for each character
-                for (int j = 0; j < i; j++) {
-                    if (isPal[j + 1][i]) {
-                        // If suffix is palindrome, total = cuts for prefix + 1
-                        dp[i] = Math.min(dp[i], dp[j] + 1);
-                    }
-                }
-            }
+        return dp[i] = minCost;
+    }
+
+    private boolean isPalindrome(int i, int j, String s) {
+        while (i < j) {
+            if (s.charAt(i) != s.charAt(j)) return false;
+            i++;
+            j--;
         }
-        return dp[n - 1];
+        return true;
     }
 }
