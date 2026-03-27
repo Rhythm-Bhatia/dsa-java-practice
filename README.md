@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0966-binary-subarrays-with-sum) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1048-longest-string-chain](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1048-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1200-minimum-absolute-difference) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0799-champagne-tower) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
