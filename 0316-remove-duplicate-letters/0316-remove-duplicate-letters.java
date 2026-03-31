@@ -11,7 +11,7 @@ class Solution {
                 continue;
             }
             
-            while(!stack.isEmpty()&&s.charAt(i)<=stack.peek()){
+            while(!stack.isEmpty()&&s.charAt(i)<stack.peek()){
                 if(arr[stack.peek()-'a']>i){
                     map.put(stack.peek(),0);
                     stack.pop();
