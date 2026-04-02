@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0260-single-number-iii) |
+| [0312-burst-balloons](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0368-largest-divisible-subset) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0213-house-robber-ii) |
+| [0312-burst-balloons](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0435-non-overlapping-intervals) |
