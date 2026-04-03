@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0151-reverse-words-in-a-string) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0840-magic-squares-in-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -605,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0079-word-search) |
 | [0401-binary-watch](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0494-target-sum) |
 | [0756-pyramid-transition-matrix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0756-pyramid-transition-matrix) |
