@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0146-lru-cache) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0316-remove-duplicate-letters) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0213-house-robber-ii) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0213-house-robber-ii) |
@@ -521,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0139-word-break) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -677,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0139-word-break) |
 ## Merge Sort
 |  |
 | ------- |
