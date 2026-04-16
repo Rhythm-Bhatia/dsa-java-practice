@@ -604,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0547-number-of-provinces) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [2092-find-all-people-with-secret](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2092-find-all-people-with-secret) |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0322-coin-change](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0547-number-of-provinces) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0994-rotting-oranges](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0994-rotting-oranges) |
 | [2092-find-all-people-with-secret](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2092-find-all-people-with-secret) |
@@ -707,4 +709,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
