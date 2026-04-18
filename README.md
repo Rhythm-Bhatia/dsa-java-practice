@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0085-maximal-rectangle) |
+| [0542-01-matrix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0733-flood-fill) |
 | [0840-magic-squares-in-grid](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0994-rotting-oranges) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -617,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0322-coin-change](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0733-flood-fill) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
