@@ -8,35 +8,35 @@ class Solution {
 
         boolean[][] visited = new boolean[n][m];
 
-        // top row
+      
         for (int j = 0; j < m; j++) {
             if (!visited[0][j] && grid[0][j] == 1) {
                 dfs(grid, 0, j, visited);
             }
         }
 
-        // right column
+        
         for (int i = 0; i < n; i++) {
             if (!visited[i][m - 1] && grid[i][m - 1] == 1) {
                 dfs(grid, i, m - 1, visited);
             }
         }
 
-        // bottom row
+        
         for (int j = m - 1; j >= 0; j--) {
             if (!visited[n - 1][j] && grid[n - 1][j] == 1) {
                 dfs(grid, n - 1, j, visited);
             }
         }
 
-        // left column
+       
         for (int i = n - 1; i >= 0; i--) {
             if (!visited[i][0] && grid[i][0] == 1) {
                 dfs(grid, i, 0, visited);
             }
         }
 
-        // count remaining land (not visited)
+      
         int count = 0;
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
