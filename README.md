@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1048-longest-string-chain](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1048-longest-string-chain) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0994-rotting-oranges](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2092-find-all-people-with-secret](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2092-find-all-people-with-secret) |
 ## Union Find
 |  |
