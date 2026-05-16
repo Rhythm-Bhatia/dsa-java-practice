@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0940-fruit-into-baskets](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0940-fruit-into-baskets) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0966-binary-subarrays-with-sum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1048-longest-string-chain](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1048-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1370-count-number-of-nice-subarrays) |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1382-balance-a-binary-search-tree) |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Theory
@@ -760,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
