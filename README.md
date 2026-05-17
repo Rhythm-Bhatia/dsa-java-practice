@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0721-accounts-merge) |
 | [0756-pyramid-transition-matrix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0721-accounts-merge](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0721-accounts-merge) |
 | [0756-pyramid-transition-matrix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0761-special-binary-string) |
 | [0812-rotate-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0812-rotate-string) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0721-accounts-merge](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0840-magic-squares-in-grid) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0761-special-binary-string) |
 | [1048-longest-string-chain](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1048-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1200-minimum-absolute-difference) |
@@ -627,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0210-course-schedule-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -647,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -752,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1020-number-of-enclaves) |
