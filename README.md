@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0778-swim-in-rising-water](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0827-making-a-large-island) |
 | [0840-magic-squares-in-grid](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0840-magic-squares-in-grid) |
 | [0860-lemonade-change](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0860-lemonade-change) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0827-making-a-large-island) |
 | [0840-magic-squares-in-grid](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0994-rotting-oranges) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0621-task-scheduler) |
+| [0778-swim-in-rising-water](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1425-constrained-subsequence-sum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1425-constrained-subsequence-sum) |
 | [1917-maximum-average-pass-ratio](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1917-maximum-average-pass-ratio) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0778-swim-in-rising-water](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0778-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -635,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0827-making-a-large-island](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0827-making-a-large-island) |
@@ -657,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0827-making-a-large-island](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0827-making-a-large-island) |
@@ -763,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
