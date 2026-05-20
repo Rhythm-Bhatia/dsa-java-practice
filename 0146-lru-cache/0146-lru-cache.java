@@ -1,49 +1,77 @@
-import java.util.*;
-
 class LRUCache {
-
-    private int capacity;
-    private Map<Integer, Integer> map;   // key -> value
-    private LinkedList<Integer> dll;     // keys in LRU order
-
-    public LRUCache(int capacity) {
-        this.capacity = capacity;
-        map = new HashMap<>();
-        dll = new LinkedList<>();
+    
+    class Node{
+        int key;
+        int value;
+        Node next;
+        Node prev;
+        Node(int key,int value){
+            this.key=key;
+            this.value=value;
+        }
     }
+    Node head;
+    Node tail;
+    HashMap<Integer,Node>map=new HashMap<>();
+    
+    int c;
+    LRUCache(int capacity) {
+        c=capacity;
+        head=new Node(0,0);
+        tail=new Node(0,0);
+        head.next=tail;
+        
+        tail.prev=head;
+        
 
+    }
+    
     public int get(int key) {
-        if (!map.containsKey(key)) {
-            return -1;
-        }
-
-        // move key to most recently used
-        dll.remove((Integer) key); // O(n) internally
-        dll.addLast(key);
-
-        return map.get(key);
+        if(!map.containsKey(key))return -1;
+        Node find=map.get(key);
+        find.prev.next=find.next;
+        find.next.prev=find.prev;
+        // removelastse(find);
+        
+        addstartme(find);
+        return find.value;
     }
-
+    
     public void put(int key, int value) {
-
-        if (map.containsKey(key)) {
-            // update value
-            map.put(key, value);
-
-            // move key to MRU
-            dll.remove((Integer) key);
-            dll.addLast(key);
-            return;
+        if(map.containsKey(key)){
+            Node node=map.get(key);
+            node.value=value;
+            node.prev.next=node.next;
+            node.next.prev=node.prev;
+            addstartme(node);
         }
+        else{
+            Node node=new Node(key,value);
+            map.put(key,node);
+            addstartme(node);
 
-        if (map.size() == capacity) {
-            // remove least recently used
-            int lruKey = dll.removeFirst();
-            map.remove(lruKey);
+            if(map.size()>c){
+                Node temp=tail.prev;
+                map.remove(temp.key);
+                temp.prev.next=temp.next;
+                temp.next.prev=temp.prev;
+
+            }
         }
-
-        // insert new key
-        map.put(key, value);
-        dll.addLast(key);
+    }
+    
+    public void addstartme(Node node){
+        Node temp=head.next;
+        head.next=node;
+        node.prev=head;
+        node.next=temp;
+        temp.prev=node;
     }
 }
+
+/**
+ * Your LRUCache object will be instantiated and called as such:
+ * LRUCache obj = new LRUCache(capacity);
+ * int param_1 = obj.get(key);
+ * obj.put(key,value);
+ */
