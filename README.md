@@ -649,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1020-number-of-enclaves) |
+| [1192-critical-connections-in-a-network](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [2092-find-all-people-with-secret](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2092-find-all-people-with-secret) |
@@ -786,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1192-critical-connections-in-a-network](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
@@ -798,4 +800,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
