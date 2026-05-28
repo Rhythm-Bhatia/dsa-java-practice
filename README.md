@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0151-reverse-words-in-a-string) |
+| [0295-find-median-from-data-stream](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0696-count-binary-substrings) |
 | [1048-longest-string-chain](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1048-longest-string-chain) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0435-non-overlapping-intervals) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0451-sort-characters-by-frequency) |
@@ -732,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0146-lru-cache) |
+| [0295-find-median-from-data-stream](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0355-design-twitter) |
 | [0901-online-stock-span](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
@@ -748,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0901-online-stock-span) |
 ## Binary Search Tree
 |  |
