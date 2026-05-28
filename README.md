@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3379-transformed-array) |
 | [3454-separate-squares-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3454-separate-squares-ii) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3634-minimum-removals-to-balance-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3748-sort-matrix-by-diagonals) |
 ## Matrix
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-two-best-non-overlapping-events](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2681-put-marbles-in-bags](https://github.com/RHYTHM643/dsa-java-practice/tree/master/2681-put-marbles-in-bags) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Sliding Window
