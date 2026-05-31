@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0621-task-scheduler) |
+| [0704-binary-search](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0733-flood-fill) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0778-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1046-max-consecutive-ones-iii) |
