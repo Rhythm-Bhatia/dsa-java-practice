@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0042-trapping-rain-water) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0778-swim-in-rising-water) |
