@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0778-swim-in-rising-water) |
