@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0140-word-break-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0213-house-robber-ii) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0778-swim-in-rising-water) |
