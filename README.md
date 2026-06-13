@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1539-kth-missing-positive-number](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1539-kth-missing-positive-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1539-kth-missing-positive-number](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1539-kth-missing-positive-number) |
 | [2054-two-best-non-overlapping-events](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2054-two-best-non-overlapping-events) |
 | [3454-separate-squares-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3454-separate-squares-ii) |
 ## Database
