@@ -10,50 +10,48 @@ class Solution {
         }
 
         StringBuilder left = new StringBuilder();
-        char max = '#';
+        char middle = '#';
 
         for (Map.Entry<Character, Integer> entry : map.entrySet()) {
 
             char key = entry.getKey();
             int value = entry.getValue();
 
-            if (value % 2 != 0 && max == '#') {
-                max = key;
+            if (value % 2 == 1 && middle == '#') {
+                middle = key;
             }
 
             int count = value / 2;
+
+            // Skip leading zero pairs
+            if (key == '0' && left.length() == 0) {
+                continue;
+            }
 
             while (count-- > 0) {
                 left.append(key);
             }
         }
 
+        // If no non-zero pair exists
+        if (left.length() == 0) {
+            if (middle != '#') {
+                return String.valueOf(middle);
+            }
+            return "0";
+        }
+
         StringBuilder right = new StringBuilder(left).reverse();
 
-        StringBuilder ans = new StringBuilder(left);
+        StringBuilder ans = new StringBuilder();
+        ans.append(left);
 
-        if (max != '#') {
-            ans.append(max);
+        if (middle != '#') {
+            ans.append(middle);
         }
 
         ans.append(right);
 
-        int i = 0;
-        int j = ans.length() - 1;
-
-        while (i < j &&
-              (ans.charAt(i) == '0' || ans.charAt(j) == '0')) {
-
-            if (ans.charAt(i) == '0') i++;
-            if (ans.charAt(j) == '0') j--;
-        }
-
-        if (i > j) {
-            return "0";
-        }
-
-        String res = ans.substring(i, j + 1);
-
-        return res.isEmpty() ? "0" : res;
+        return ans.toString();
     }
 }
