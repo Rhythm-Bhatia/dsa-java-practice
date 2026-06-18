@@ -9,9 +9,7 @@ class Solution {
                     map.getOrDefault(num.charAt(i), 0) + 1);
         }
 
-        StringBuilder str1 = new StringBuilder();
-        StringBuilder str2 = new StringBuilder();
-
+        StringBuilder left = new StringBuilder();
         char max = '#';
 
         for (Map.Entry<Character, Integer> entry : map.entrySet()) {
@@ -25,50 +23,37 @@ class Solution {
 
             int count = value / 2;
 
-            while (count != 0) {
-                str1.append(key);
-                str2.insert(0, key);   // same as your key + str2
-                count--;
+            while (count-- > 0) {
+                left.append(key);
             }
         }
 
+        StringBuilder right = new StringBuilder(left).reverse();
+
+        StringBuilder ans = new StringBuilder(left);
+
         if (max != '#') {
-            str1.append(max);
+            ans.append(max);
         }
 
-        str1.append(str2);
-
-        String ans = str1.toString();
-
-        if (ans.isEmpty()) {
-            return "0";
-        }
+        ans.append(right);
 
         int i = 0;
         int j = ans.length() - 1;
 
-        while (j > i &&
+        while (i < j &&
               (ans.charAt(i) == '0' || ans.charAt(j) == '0')) {
 
-            if (ans.charAt(i) == '0') {
-                i++;
-            }
-
-            if (ans.charAt(j) == '0') {
-                j--;
-            }
+            if (ans.charAt(i) == '0') i++;
+            if (ans.charAt(j) == '0') j--;
         }
 
         if (i > j) {
             return "0";
         }
 
-        ans = ans.substring(i, j + 1);
+        String res = ans.substring(i, j + 1);
 
-        if (ans.isEmpty()) {
-            return "0";
-        }
-
-        return ans;
+        return res.isEmpty() ? "0" : res;
     }
 }
