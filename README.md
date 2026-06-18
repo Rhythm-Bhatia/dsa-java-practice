@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0260-single-number-iii) |
 | [0312-burst-balloons](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0322-coin-change) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0130-surrounded-regions) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0778-swim-in-rising-water) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0704-binary-search) |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0190-reverse-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1382-balance-a-binary-search-tree) |
