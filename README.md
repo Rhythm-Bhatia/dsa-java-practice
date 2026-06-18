@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2384-largest-palindromic-number](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2384-largest-palindromic-number) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/RHYTHM643/dsa-java-practice/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2032-largest-odd-number-in-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2032-largest-odd-number-in-string) |
+| [2384-largest-palindromic-number](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2384-largest-palindromic-number) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3462-vowels-game-in-a-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3462-vowels-game-in-a-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3713-longest-balanced-substring-i) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1917-maximum-average-pass-ratio) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2032-largest-odd-number-in-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2032-largest-odd-number-in-string) |
+| [2384-largest-palindromic-number](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2384-largest-palindromic-number) |
 | [2681-put-marbles-in-bags](https://github.com/RHYTHM643/dsa-java-practice/tree/master/2681-put-marbles-in-bags) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Heap (Priority Queue)
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0767-reorganize-string) |
+| [2384-largest-palindromic-number](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2384-largest-palindromic-number) |
 | [3713-longest-balanced-substring-i](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/3713-longest-balanced-substring-i) |
 ## Quickselect
 |  |
