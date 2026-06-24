@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [2032-largest-odd-number-in-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2032-largest-odd-number-in-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/RHYTHM643/dsa-java-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-largest-magic-square](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1895-largest-magic-square) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1552-magnetic-force-between-two-balls) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2054-two-best-non-overlapping-events) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [1405-longest-happy-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1405-longest-happy-string) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1917-maximum-average-pass-ratio) |
@@ -411,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1405-longest-happy-string](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1405-longest-happy-string) |
 | [1425-constrained-subsequence-sum](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1425-constrained-subsequence-sum) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1917-maximum-average-pass-ratio](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1917-maximum-average-pass-ratio) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2054-two-best-non-overlapping-events](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2054-two-best-non-overlapping-events) |
@@ -479,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1539-kth-missing-positive-number](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1552-magnetic-force-between-two-balls) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1901-find-a-peak-element-ii](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/1901-find-a-peak-element-ii) |
 | [2054-two-best-non-overlapping-events](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Rhythm-Bhatia/dsa-java-practice/tree/master/2226-maximum-candies-allocated-to-k-children) |
